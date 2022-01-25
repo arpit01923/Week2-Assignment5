@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.text1,.text2,.text3,.text4,.text5{
+    position: relative;
+}
+
+#badge1{
+    position: absolute;
+    top: -8px;
+}
+
+#badge2{
+    position: absolute;
+    font-size: 1.5rem;
+    top: -15px;
+}
+
+.text3{
+    display: inline;
+}
+#badge3{
+    position: absolute;
+}
+.btn1{
+    margin: 10px;
+}
+
+.text4{
+    display: inline;
+}
+#badge4{
+    position: absolute;
+    right: -50px;
+}
+.btn2{
+    margin: 10px;
+}
+
+.text{
+    display: inline;
+}
+#badge5{
+    position: absolute;
+    left: 135px;
+}

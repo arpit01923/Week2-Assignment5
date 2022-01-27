@@ -6,41 +6,79 @@
 }
 
 #badge1{
+    color: rgb(83, 83, 214);
     position: absolute;
     top: -8px;
 }
+#badge1 span{
+    position: fixed;
+    left: 125px;
+    color: white;
+}
 
 #badge2{
+    color: rgb(83, 83, 214);
     position: absolute;
     font-size: 1.5rem;
     top: -15px;
+}
+#badge2 span{
+    position: fixed;
+    left: 153px;
+    color: white;
 }
 
 .text3{
     display: inline;
 }
 #badge3{
+    color: rgb(247, 108, 216);
     position: absolute;
+}
+#badge3 span{
+    position: fixed;
+    left: 210px;
+    color: white;
 }
 .btn1{
     margin: 10px;
+    color: white;
+    background-color: rgb(83, 83, 214);
+    border: 1px solid rgb(83, 83, 214);
 }
 
 .text4{
     display: inline;
 }
 #badge4{
+    color: rgb(83, 83, 214);
     position: absolute;
-    right: -50px;
+    right: -70px;
+}
+#badge4 span{
+    position: fixed;
+    left: 263px;
+    color: white;
 }
 .btn2{
     margin: 10px;
+    background-color: white;
 }
 
 .text{
     display: inline;
 }
 #badge5{
+    font-size: larger;
+    color: rgb(235, 57, 57);
     position: absolute;
-    left: 135px;
+    left: 140px;
+    top: 180px;
+}
+#badge5 span{
+    font-size: small;
+    position: fixed;
+    left: 142px;
+    top: 182px;
+    color: white;
 }
